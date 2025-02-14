@@ -1,0 +1,6 @@
+#ifndef CONDITIONAL_STATEMENTS_HEADER
+#define CONDITIONAL_STATEMENTS_HEADER
+
+bool IsLeapYear(int number);
+
+#endif

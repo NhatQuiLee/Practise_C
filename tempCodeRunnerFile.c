@@ -1,0 +1,1 @@
+student.name[strcspn(student.name, '\n')] = '\0';
